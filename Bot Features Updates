@@ -1,0 +1,12 @@
+All Updates Will Be Posted Here To Keep People Informed Of The Progress.
+
++ Announcement System
++ Help System
++ Added A Few Basic Commands. (Ping, Nick)
++ Added Moderation Features (Kick,Warn,Ban)
+
+To Be Implemented Next:
+
+- Authencation System
+- Fix A Few Minor Bugs
+- Make WebAPI Interface For Users To Interact With Their Bot Online.
